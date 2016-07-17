@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111</color>
+    <color name="colorPrimaryDark">#111</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#ffffff</color>
+
+    <!--dynamic background color change-->
+    <color name="lowTemp">#9cffe9</color>
+    <color name="medTemp">#ffc94a</color>
+    <color name="highTemp">#ff4545</color>
+</resources>
